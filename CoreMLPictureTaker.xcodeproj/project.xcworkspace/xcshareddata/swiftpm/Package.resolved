@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GridStack",
+        "repositoryURL": "git@github.com:barrault01/GridStack.git",
+        "state": {
+          "branch": "master",
+          "revision": "1de457c7a2bbfc8763dfcef729c8eff67618abd3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
